@@ -30,15 +30,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abibibi87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </div>
 </div>
-
-<style>
-@keyframes flicker {
-  0% { box-shadow: 0 0 20px #ff4500, 0 0 40px #ff6347, 0 0 60px #ffa500; }
-  50% { box-shadow: 0 0 10px #ff8c00, 0 0 30px #ff4500, 0 0 50px #ff0000; }
-  100% { box-shadow: 0 0 20px #ff4500, 0 0 40px #ff6347, 0 0 60px #ffa500; }
-}
-</style>
-
 ---
 
 ---
