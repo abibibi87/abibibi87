@@ -50,7 +50,10 @@
 ### 🎷 Lagu Favorit
 
 <div align="center">
-  <iframe src="https://open.spotify.com/embed/track/27xvsEVJolDpEDy5PtD0hq?utm_source=generator" width="600" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius:12px;"></iframe>
+ 
+[![My Heart - Spotify](https://i.scdn.co/image/ab67616d00001e027ac2f1524d8262fcbcd0e406)](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq?si=6546b34badfb4f5c)  
+[🎵 Lihat Profil Spotify Saya](https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci)
+
   <p><a href="https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci" target="_blank">🎵 Lihat Profil Spotify Saya</a></p>
 </div>
 
