@@ -1,7 +1,6 @@
 ## 👋 Halo, Saya Abi!
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM205cnJsdGs0emI3dHI1Y29meDBhcmNneXNjeWJxbmwxbDNyeWhuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif" width="100" alt="Linux Penguin" />
   <img src="https://avatars.githubusercontent.com/u/90772789?v=4" width="120" style="border-radius: 50%;" alt="My Avatar" />
 </div>
 
