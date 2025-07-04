@@ -40,5 +40,5 @@
 ---
 
 <footer align="center">
-  Made with ❤️ by Abi | Dark theme • Game • Music • Linux
+  ✨ Lihat tampilan interaktif penuh → [abibibi87.github.io](https://abibibi87.github.io/)
 </footer>
