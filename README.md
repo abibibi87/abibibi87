@@ -19,12 +19,6 @@
 
 ---
 
-### 🎮 Mini Game
-
-<div align="center">
-  <iframe src="https://wayou.github.io/t-rex-runner/" width="800" height="220" frameborder="0" scrolling="no" style="border: 2px solid #ffffff22; border-radius: 12px;"></iframe>
-</div>
-
 ---
 
 ### 📊 Statistik
@@ -46,16 +40,6 @@
 </style>
 
 ---
-
-### 🎷 Lagu Favorit
-
-<div align="center">
- 
-[![My Heart - Spotify](https://i.scdn.co/image/ab67616d00001e027ac2f1524d8262fcbcd0e406)](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq?si=6546b34badfb4f5c)  
-[🎵 Lihat Profil Spotify Saya](https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci)
-
-  <p><a href="https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci" target="_blank">🎵 Lihat Profil Spotify Saya</a></p>
-</div>
 
 ---
 
