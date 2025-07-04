@@ -1,8 +1,11 @@
 ## 👋 Halo, Saya Abi!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/IW8XDtN7LX2FRRPn5j/giphy.gif" width="120" alt="Linux Penguin" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/tux.gif" width="100" alt="Linux Penguin" />
+  <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Abi+Firmansyah!;Flutter+%7C+Laravel+%7C+NestJS+%7C+Next.js+%7C+Linux+Enthusiast;Always+learning%2C+always+building!🚀" alt="Typing SVG" />
+  <br>
+  <img src="https://avatars.githubusercontent.com/u/10568265?v=4" width="120" style="border-radius: 50%;" alt="My Avatar">
 </div>
 
 ---
@@ -20,22 +23,22 @@
 
 ---
 
-♟️ Let’s Play Chess
+### ♟️ Let’s Play Chess
+
 <div align="center">
   <img src="https://github.com/ashutosh00710/github-readme-chess/blob/main/assets/chessboard.gif?raw=true" width="320" alt="Chessboard Animation" />
 </div>
+
 ---
 
 ### 📊 Statistik GitHub
 
 <div align="center">
-  
   <img src="https://streak-stats.demolab.com?user=abibibi87&theme=tokyonight&hide_border=true&fire=DD2727&ring=4F8CC9&background=0D1117" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abibibi87&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff5555&title_color=58a6ff" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abibibi87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  
 </div>
 
 ---
@@ -46,24 +49,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abibibi87&theme=darkhub&no-frame=true&no-bg=true&title=Commit,Issues,Repositories,PullRequest&margin-w=15&row=1" />
 </div>
 
+---
 
-🎧 Lagu Favorit
+### 🎧 Lagu Favorit Saat Ngoding
+
 <div align="center">
   <a href="https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq?si=6546b34badfb4f5c" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&count=1&width=400&unique=true&track=true&cover_image=true" alt="Now Playing" />
-    <p><b>My Heart</b> - Acha Septriasah & Irwansyah</p>
+    <img src="https://i.scdn.co/image/ab67616d00001e027ac2f1524d8262fcbcd0e406" width="200" alt="My Heart - Acha Septriasa & Irwansyah">
+    <p><b>My Heart</b> - Acha Septriasa & Irwansyah</p>
   </a>
+  <br>
+  🔗 Profil Spotify Saya: [@abibibi87](https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci)
 </div>
 
-📫 Hubungi Saya  
-🌐 Website:  
-📬 Email:  
-💼 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f0f0f&section=footer"/>
-</div>
+### 📫 Hubungi Saya
 
+- 🌐 Website: (coming soon)
+- 📬 Email: abibibi87@example.com
+- 💼 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
+
+---
 
 ### 💻 Sistem Operasi & Tools Favorit
 
