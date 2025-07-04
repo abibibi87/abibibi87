@@ -1,11 +1,8 @@
 ## 👋 Halo, Saya Abi!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/tux.gif" width="100" alt="Linux Penguin" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Abi+Firmansyah!;Flutter+%7C+Laravel+%7C+NestJS+%7C+Next.js+%7C+Linux+Enthusiast;Always+learning%2C+always+building!🚀" alt="Typing SVG" />
-  <br>
-  <img src="https://avatars.githubusercontent.com/u/10568265?v=4" width="120" style="border-radius: 50%;" alt="My Avatar">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM205cnJsdGs0emI3dHI1Y29meDBhcmNneXNjeWJxbmwxbDNyeWhuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif" width="100" alt="Linux Penguin" />
+  <img src="https://avatars.githubusercontent.com/u/90772789?v=4" width="120" style="border-radius: 50%;" alt="My Avatar" />
 </div>
 
 ---
@@ -23,59 +20,51 @@
 
 ---
 
-### ♟️ Let’s Play Chess
+### 🎮 Mini Game
 
 <div align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-chess/blob/main/assets/chessboard.gif?raw=true" width="320" alt="Chessboard Animation" />
+  <iframe src="https://wayou.github.io/t-rex-runner/" width="800" height="220" frameborder="0" scrolling="no" style="border: 2px solid #ffffff22; border-radius: 12px;"></iframe>
 </div>
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abibibi87&theme=tokyonight&hide_border=true&fire=DD2727&ring=4F8CC9&background=0D1117" />
+  <div style="display:inline-block;padding:20px;border:2px solid #ff0000;border-radius:12px;background:rgba(255,70,0,0.1);box-shadow:0 0 20px rgba(255,70,0,0.6),0 0 40px rgba(255,100,0,0.4),0 0 60px rgba(255,150,0,0.2);animation:flicker 1s infinite;">
+    <img src="https://streak-stats.demolab.com?user=abibibi87&theme=highcontrast&hide_border=true&fire=DD2727&ring=F59E0B&currStreakNum=FF5F1F&sideNums=FFD700&background=0D1117" /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=abibibi87&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff5555&title_color=58a6ff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abibibi87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </div>
+</div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abibibi87&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff5555&title_color=58a6ff" />
+<style>
+@keyframes flicker {
+  0% { box-shadow: 0 0 20px #ff4500, 0 0 40px #ff6347, 0 0 60px #ffa500; }
+  50% { box-shadow: 0 0 10px #ff8c00, 0 0 30px #ff4500, 0 0 50px #ff0000; }
+  100% { box-shadow: 0 0 20px #ff4500, 0 0 40px #ff6347, 0 0 60px #ffa500; }
+}
+</style>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abibibi87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+---
+
+### 🎷 Lagu Favorit
+
+<div align="center">
+  <iframe src="https://open.spotify.com/embed/track/27xvsEVJolDpEDy5PtD0hq?utm_source=generator" width="600" height="80" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius:12px;"></iframe>
+  <p><a href="https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci" target="_blank">🎵 Lihat Profil Spotify Saya</a></p>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📢 Hubungi Saya
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abibibi87&theme=darkhub&no-frame=true&no-bg=true&title=Commit,Issues,Repositories,PullRequest&margin-w=15&row=1" />
-</div>
-
----
-
-### 🎧 Lagu Favorit Saat Ngoding
-
-<div align="center">
-  <a href="https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq?si=6546b34badfb4f5c" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e027ac2f1524d8262fcbcd0e406" width="200" alt="My Heart - Acha Septriasa & Irwansyah">
-    <p><b>My Heart</b> - Acha Septriasa & Irwansyah</p>
-  </a>
-  <br>
-  🔗 Profil Spotify Saya: [@abibibi87](https://open.spotify.com/user/31s7o5oqum62h4kamyxazwnl3zci)
-</div>
+* 🌐 Website: <i>(coming soon)</i>
+* 📬 Email: [abibibi87@example.com](mailto:abibibi87@example.com)
+* 💼 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
 
 ---
 
-### 📫 Hubungi Saya
-
-- 🌐 Website: (coming soon)
-- 📬 Email: abibibi87@example.com
-- 💼 LinkedIn: [linkedin.com/in/](https://linkedin.com/in/)
-
----
-
-### 💻 Sistem Operasi & Tools Favorit
-
-```bash
-OS      : Pop!_OS / Arch Linux hybrid
-Terminal: Warp / Kitty / Zsh + Oh My Zsh
-Editor  : VS Code, Neovim (for fun 😎)
-WM      : KDE Plasma + Tiling Extension
+<footer align="center">
+  Made with ❤️ by Abi | Dark theme • Game • Music • Linux
+</footer>
